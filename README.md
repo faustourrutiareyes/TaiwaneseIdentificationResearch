@@ -1,1 +1,0 @@
-This is a small research project aimed at finding a correlation between Taiwanese ethnic identification and preferred political party. It is separated into cleaning, analysis, and prediction. The model is able to predict the political party of choice with 80% accuracy. 
