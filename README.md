@@ -1,8 +1,10 @@
-# Usage
+# Taiwanese Electorate and Self-Identification Analysis Project
+
+## Usage
 
 The files can be downloaded or cloned but will need R, Python, and Jupyter Notebook installed to run locally. Otherwise, all files can be viewed statically through Github with the main analysis viewable here.
 
-# Disclaimer
+## Disclaimer
 
 This data was sourced from Academia Sinica's Center for Survey Research. Data from 2012, 2013 and 2014 was selected because for these three years there exists a category asking for respondent's self identification as either Taiwanese, Chinese, or both. 
 
