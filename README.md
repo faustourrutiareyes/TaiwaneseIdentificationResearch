@@ -1,6 +1,6 @@
 # Taiwanese Electorate and Self-Identification Analysis Project
 
-This is a small research project aimed at finding a correlation between Taiwanese ethnic identification and preferred political party.
+This is a small research project aimed at finding a correlation between Taiwanese ethnic and political identification and preferred political party.
 
 ## Usage and Viewing
 
