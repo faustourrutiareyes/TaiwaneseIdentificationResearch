@@ -1,10 +1,10 @@
 # Taiwanese Electorate and Self-Identification Analysis Project
 
-This is a small research project aimed at finding a correlation between Taiwanese ethnic identification and preferred political party.
+This is a small research project aimed at finding a correlation between Taiwanese ethnic and political identification and preferred political party.
 
 ## Usage and Viewing
 
-The files can be downloaded or cloned but will need R, Python, and Jupyter Notebook installed to run locally. Otherwise, all files can be viewed statically through Github with the main analysis viewable here.
+The files can be downloaded or cloned but will need Python, and Jupyter Notebook installed to run locally. Otherwise, all files can be viewed statically through Github with the main analysis viewable [here](main.ipynb).
 
 ## Disclaimer
 
