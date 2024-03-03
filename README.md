@@ -4,7 +4,7 @@ This is a small research project aimed at finding a correlation between Taiwanes
 
 ## Usage and Viewing
 
-The files can be downloaded or cloned but will need Python, and Jupyter Notebook installed to run locally. Otherwise, all files can be viewed statically through Github with the main analysis viewable [here](main.ipynb).
+The files can be downloaded or cloned but will need Python, and Jupyter Notebook installed to run locally. Otherwise, all files can be viewed statically through Github with the main analysis viewable [here](https://faustourrutiareyes.github.io/taiwanese-identification-research/).
 
 ## Disclaimer
 
